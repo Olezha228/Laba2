@@ -1,0 +1,7 @@
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная2\Лабораторка 2\Лабораторка 2\bin\Debug\Лабораторка 2.exe.config
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная2\Лабораторка 2\Лабораторка 2\bin\Debug\Лабораторка 2.exe
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная2\Лабораторка 2\Лабораторка 2\bin\Debug\Лабораторка 2.pdb
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная2\Лабораторка 2\Лабораторка 2\obj\Debug\Лабораторка 2.csprojAssemblyReference.cache
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная2\Лабораторка 2\Лабораторка 2\obj\Debug\Лабораторка 2.csproj.CoreCompileInputs.cache
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная2\Лабораторка 2\Лабораторка 2\obj\Debug\Лабораторка 2.exe
+C:\Users\olegf\OneDrive\Рабочий стол\HSE\Программирование\Лабораторная2\Лабораторка 2\Лабораторка 2\obj\Debug\Лабораторка 2.pdb
